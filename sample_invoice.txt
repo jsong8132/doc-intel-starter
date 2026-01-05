@@ -1,0 +1,49 @@
+TAX INVOICE
+
+From: Smith Concreting Pty Ltd
+ABN: 12 345 678 901
+123 Industrial Drive
+Mulgrave VIC 3170
+Phone: 0412 345 678
+
+To: Song Capital Group Pty Ltd
+    Level 5, 123 Collins Street
+    Melbourne VIC 3000
+
+Date: 15 March 2024
+Invoice Number: INV-2024-0847
+Due Date: 29 March 2024
+
+Project Reference: Balmoral Estate - Lot 42 Subdivision
+Purchase Order: PO-2024-0156
+
+=================================================================
+DESCRIPTION                              QTY    UNIT PRICE   TOTAL
+=================================================================
+Concrete slab pour - Stage 1              1    $15,000.00   $15,000.00
+  (Garage and house pad, M25 grade)
+
+Concrete pump hire                        1     $2,500.00    $2,500.00
+  (42m boom pump, full day)
+
+Labour - concrete finishing               3     $1,500.00    $4,500.00
+  (3 concreters x 1 day each)
+
+=================================================================
+                                        SUBTOTAL:   $22,000.00
+                                        GST (10%):   $2,200.00
+                                        --------------------------
+                                        TOTAL DUE:  $24,200.00
+=================================================================
+
+Payment Terms: 14 days from invoice date
+
+Bank Details:
+  Bank: National Australia Bank
+  Account Name: Smith Concreting Pty Ltd
+  BSB: 083-004
+  Account: 12-345-6789
+
+Please include invoice number as payment reference.
+
+Thank you for your business!
