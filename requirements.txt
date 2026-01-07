@@ -1,6 +1,7 @@
 # Core dependencies for the document intelligence project
 anthropic>=0.40.0
 python-dotenv>=1.0.0
+azure-ai-documentintelligence>=1.0.0
 
 # You'll add these later as you expand:
 # pytest>=8.0.0           # For proper testing
